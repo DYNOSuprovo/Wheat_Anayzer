@@ -1,0 +1,9 @@
+flask
+tensorflow
+numpy
+pillow
+opencv-python
+imutils
+tqdm
+scikit-learn
+gunicorn

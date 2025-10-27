@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+
+# Archives
+*.zip
+
+# Model files
+*.h5
+/Wheat-Disease-Detection--main/model_pkl
+
+# Output files
+src/static/output*.jpg

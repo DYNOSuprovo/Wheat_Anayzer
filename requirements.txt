@@ -7,3 +7,7 @@ imutils
 tqdm
 scikit-learn
 gunicorn
+mlflow
+matplotlib
+seaborn
+pytest
